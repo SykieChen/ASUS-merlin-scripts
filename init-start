@@ -1,0 +1,3 @@
+#!/bin/sh
+nvram unset territory_code
+nvram set location_code=AA
